@@ -1,0 +1,79 @@
+.heading ul{
+    list-style: none;
+    text-align: left;
+
+
+}
+.heading ul li {
+    border: 2px solid;
+    background-color:#b22222;
+}
+h2 {
+    margin: 20px;
+    padding: 2px;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background-color: #fff0f5;
+    line-height: 1;
+}
+.Services{
+    display: inline-block;
+    border-bottom: 0;
+    margin: 5px;
+    padding: 0px;
+    background-color: #b22222;
+    display: inline-block;
+    
+
+}
+
+.wholeapp{
+    
+    padding: 5px, 10px;
+    width: 100%;
+ 
+    text-align: center;
+}
+
+    
+
+
+}
+    img{
+    margin-bottom: 20px;
+    width: 50%;
+    display: inline-block;
+    border: 2px, block, turquoise;
+
+}
+.finalservice li{
+    list-style: none;
+    text-align: justify;
+
+}
+input{
+    width: 100px;
+    color: #348efe;
+    padding: 20px 0;
+    border: 1px solid  #9dd1ff;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin: 25px 0;
+    transition: background-color 200ms ease-in-out;
+}
+span{
+    font-size: 20px;
+    font-style: italic;
+}
+li{
+   display: inline-block;
+   padding: 5px;
+}
+
